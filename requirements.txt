@@ -61,6 +61,6 @@ twilio==6.9.0
 urllib3==1.24
 virtualenv==16.0.0
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 whitenoise==4.1
 wrapt==1.10.11

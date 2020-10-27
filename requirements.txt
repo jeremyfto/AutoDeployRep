@@ -9,7 +9,7 @@ Click==7.0
 colorama==0.3.9
 coverage==4.5.1
 coveralls==1.5.1
-cryptography==2.3.1
+cryptography==3.2
 decorator==4.3.0
 Django==1.10
 django-sendsms==0.3.1

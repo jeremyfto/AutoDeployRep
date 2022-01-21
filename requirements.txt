@@ -20,7 +20,7 @@ flake8==3.5.0
 Flask-Bcrypt==0.7.1
 gunicorn==19.9.0
 idna==2.7
-ipython==7.0.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 isort==4.3.4
 itsdangerous==0.24
